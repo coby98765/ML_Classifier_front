@@ -147,7 +147,7 @@ docker run -p 8501:8501 -e BACKEND_URL="http://your-backend-host:8000" bayes-fro
 
 ## 🧑‍💻 Author
 
-Built by @coby98765
+Built by `@coby98765`
 
 Inspired by a Naive Bayes learning project
 
